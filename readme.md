@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ravi Kumar Rana</h1>
 <h3 align="center">A passionate Competitive programmer and Web Developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rkr3o&label=Profile%20views&color=0e75b6&style=flat" alt="rkr3o" /> </p>
+<img align="right" alt="web_dev" width="35%" src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif">
 
 - 🔭 I’m currently working on [Movix](https://github.com/rkr3o/Movix)
 
@@ -15,17 +16,17 @@
 - 📫 How to reach me *rkoffice99@gmail.com*
 
 - ⚡ Fun fact *Tell me the Passcode*
-  
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rkr3o" alt="rkr3o" /></a> </p>
-<img align="right" alt="web_dev" width="40%" src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif">
-
-  <h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p>
 <a href="https://www.instagram.com/_.rvi_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ravi-kumar-rana" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ravi-kumar-rana-710934159/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravi-kumar-rana" height="30" width="40" /></a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
+<p></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rkr3o" alt="rkr3o" /></a> </p>
+
+
+
+<h3 align="centre">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
