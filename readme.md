@@ -18,7 +18,7 @@
   
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rkr3o" alt="rkr3o" /></a> </p>
-<img align="right" alt="web_dev" width="50%" src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif">
+<img align="right" alt="web_dev" width="40%" src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif">
 
   <h3 align="left">Connect with me:</h3>
 <p>
