@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravi Kumar Rana</h1>
-<h3 align="center">A Passionate Software Engineer from India</h3>
+<h3 align="center">A Passionate Software Devlopement Engineer from India</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rkr3o&label=Profile%20views&color=0e75b6&style=flat" alt="rkr3o" />
@@ -23,7 +23,17 @@
   <a href="https://www.linkedin.com/in/ravi-kumar-rana-710934159/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravi-kumar-rana" height="30" width="40" />
   </a>
+  <a href="https://leetcode.com/u/dead_lucifer/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+  <a href="https://codeforces.com/profile/byte_dock" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
+  </a>
+  <a href="https://www.codechef.com/users/dead_lucifer" target="_blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/codechef.png" alt="CodeChef" height="30" width="40" />
+  </a>
 </p>
+
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
