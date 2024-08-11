@@ -6,10 +6,10 @@
 </p>
 <img align="right" alt="web_dev" width="35%" src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif">
 
-- 🔭 I’m currently working with some amazing folks who love solving real-world problems with their service of Fastag issuance for toll transactions throughout India.
+- 🔭 I’m currently working in **Park Plus** as a **Backend Engineer** with some amazing folks who love solving real-world problems with their service of Fastag issuance for toll transactions throughout India.
 - 🔭 I’m also working on [Movix](https://github.com/rkr3o/Movix)
 - 🌱 I’m currently learning **JavaScript, Data Structures, and Algorithms**
-- 👯 I’m looking to collaborate on **Web Development projects**
+- 👯 I’m looking to collaborate on **Industry ready Development projects**
 - 👨‍💻 All of my projects are available at [https://github.com/rkr3o](https://github.com/rkr3o)
 - 💬 Ask me about **Data Structures and Algorithms, JavaScript, C++**
 - 📫 How to reach me: **rkoffice99@gmail.com**
