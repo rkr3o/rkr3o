@@ -7,7 +7,7 @@
 <img align="right" alt="web_dev" width="35%" src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif">
 
 - 🔭 I’m currently working in **Park Plus** as a **Backend Engineer** with some amazing folks who love solving real-world problems with their service of Fastag issuance for toll transactions throughout India.
-- 🔭 Currently i am working on [Horizon](https://github.com/rkr3o/banking)
+- 🔭 Currently i am working on [Horizon](https://github.com/rkr3o/banking).
 - 🌱 I’m currently learning **JavaScript, Data Structures & Algorithms**
 - 👯 I’m looking to collaborate on **Industry ready development projects**
 - 👨‍💻 All of my projects are available at ([https://github.com/rkr3o](https://github.com/rkr3o?tab=repositories))
