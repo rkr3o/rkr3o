@@ -10,7 +10,7 @@
 - 🔭 Currently i am working on [Horizon](https://github.com/rkr3o/banking)
 - 🌱 I’m currently learning **JavaScript, Data Structures & Algorithms**
 - 👯 I’m looking to collaborate on **Industry ready development projects**
-- 👨‍💻 All of my projects are available at [https://github.com/rkr3o](https://github.com/rkr3o)
+- 👨‍💻 All of my projects are available at ([https://github.com/rkr3o](https://github.com/rkr3o?tab=repositories))
 - 💬 Ask me about **Data Structures & Algorithms, JavaScript, C++**
 - 📫 How to reach me: **rkoffice99@gmail.com**
 - ⚡ Fun fact: **Tell me the Passcode**
